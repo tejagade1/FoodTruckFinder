@@ -1,0 +1,16 @@
+.project
+.settings
+target/
+*.bak
+.tmp/
+node/
+node_modules/
+/*/META-INF/
+.classpath
+*.versionsBackup
+.checkstyle
+.pmd
+.pmdruleset.xml
+.fbprefs
+.profiler
+.vscode
